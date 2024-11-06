@@ -1,0 +1,35 @@
+INSERT INTO EXPENSES (
+    CATEGORY,
+    DEPARTMENT,
+    AMOUNT,
+    DATE
+) VALUES (
+    'Food',
+    'Marketing',
+    150.00,
+    '2024-11-01'
+),
+(
+    'Travel',
+    'Sales',
+    300.00,
+    '2024-11-02'
+),
+(
+    'Supplies',
+    'IT',
+    50.00,
+    '2024-11-03'
+),
+(
+    'Food',
+    'Sales',
+    200.00,
+    '2024-11-03'
+),
+(
+    'Travel',
+    'Marketing',
+    400.00,
+    '2024-11-04'
+);
